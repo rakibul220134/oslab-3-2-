@@ -2,7 +2,7 @@
 name="sharker"
 echo "string size:${#name}"
 echo "first three character:${name:0:3}"
-echo "rakib, ${name}siami"
+echo "rakib, ${name}rs"
 echo "script name : $0"
 echo "first argument :$1"
 echo "second argument :$2"
